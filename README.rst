@@ -227,3 +227,4 @@ __ https://groups.google.com/forum/#!forum/edx-code
    :target: https://travis-ci.org/edx/diff-cover
 .. |coverage-status| image:: https://coveralls.io/repos/edx/diff-cover/badge.png
    :target: https://coveralls.io/r/edx/diff-cover
+
